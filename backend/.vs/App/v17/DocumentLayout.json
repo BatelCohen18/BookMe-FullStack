@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\app.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\app.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\models\\createorederrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\models\\createorederrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\profiles\\clientorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\profiles\\clientorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\profiles\\clientuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\profiles\\clientuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90322A45-A2DC-4B26-AE5B-E114FE466A8D}|App.API\\App.API.csproj|solutionrelative:app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6F65C8-A416-40E1-8B56-02359DCA1110}|App.BusinessLogic\\App.BusinessLogic.csproj|solutionrelative:app.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\datacontext\\bookmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\datacontext\\bookmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\interfaces\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\interfaces\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\interfaces\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dataaccess\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1704B04F-744B-4144-8326-CE6FB414F49A}|App.DataAccess\\App.DataAccess.csproj|solutionrelative:app.dataaccess\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dto\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|solutionrelative:app.dto\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|solutionrelative:app.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|c:\\users\\97254\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\app\\app\\app.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A42D45B-D457-4AAD-864F-79A6ABFA9E48}|App.DTO\\App.DTO.csproj|solutionrelative:app.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\BookMeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.DataAccess\\Entities\\BookMeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\me\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD Full Stack \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05D4 \u05D1\\App\\App.DataAccess\\Entities\\BookMeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientOrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Profiles\\ClientOrderProfile.cs",
+              "RelativeDocumentMoniker": "App.API\\Profiles\\ClientOrderProfile.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Profiles\\ClientOrderProfile.cs",
+              "RelativeToolTip": "App.API\\Profiles\\ClientOrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:27.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Models\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "App.API\\Models\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Models\\CreateUserRequest.cs",
+              "RelativeToolTip": "App.API\\Models\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:23.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrederRequest.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Models\\CreateOrederRequest.cs",
+              "RelativeDocumentMoniker": "App.API\\Models\\CreateOrederRequest.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Models\\CreateOrederRequest.cs",
+              "RelativeToolTip": "App.API\\Models\\CreateOrederRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:21.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:15.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "App.API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "App.API\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:13.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.API.http",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\App.API.http",
+              "RelativeDocumentMoniker": "App.API\\App.API.http",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\App.API.http",
+              "RelativeToolTip": "App.API\\App.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-01T00:26:37.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\appsettings.json",
+              "RelativeDocumentMoniker": "App.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\appsettings.json",
+              "RelativeToolTip": "App.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T00:26:32.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Profiles\\ClientUserProfile.cs",
+              "RelativeDocumentMoniker": "App.API\\Profiles\\ClientUserProfile.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Profiles\\ClientUserProfile.cs",
+              "RelativeToolTip": "App.API\\Profiles\\ClientUserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:29.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Program.cs",
+              "RelativeDocumentMoniker": "App.API\\Program.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.API\\Program.cs",
+              "RelativeToolTip": "App.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:26:22.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:43.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:45.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:50.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\BookProfile.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Profiles\\BookProfile.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\BookProfile.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Profiles\\BookProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:48.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\BookService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Services\\BookService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\OrderService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:57.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "App.BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "App.BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:28:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookMeContext.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\DataContext\\BookMeContext.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\DataContext\\BookMeContext.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\DataContext\\BookMeContext.cs",
+              "RelativeToolTip": "App.DataAccess\\DataContext\\BookMeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:13:38.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\Book.cs",
+              "RelativeToolTip": "App.DataAccess\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\Order.cs",
+              "RelativeToolTip": "App.DataAccess\\Entities\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "App.DataAccess\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:42:29.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IBooksRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Interfaces\\IBooksRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IBooksRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Interfaces\\IBooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:15:38.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Interfaces\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IOrdersRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Interfaces\\IOrdersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:22.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Interfaces\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Interfaces\\IUsersRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Interfaces\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:44:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:24:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:25:05.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Repositories\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "App.DataAccess\\Repositories\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:24:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "App.DTO\\Models\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\BookDTO.cs",
+              "RelativeToolTip": "App.DTO\\Models\\BookDTO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:30.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "App.DTO\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "App.DTO\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "App.DTO\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DTO\\Models\\UserDTO.cs",
+              "RelativeToolTip": "App.DTO\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:46:32.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookMeContext.cs",
+              "DocumentMoniker": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "RelativeDocumentMoniker": "App.DataAccess\\Entities\\BookMeContext.cs",
+              "ToolTip": "C:\\Users\\97254\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05EA 2024-full stack\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05D5\u05DD\\App\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "RelativeToolTip": "App.DataAccess\\Entities\\BookMeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:12:50.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookMeContext.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD Full Stack \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05D4 \u05D1\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\me\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD Full Stack \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05D4 \u05D1\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD Full Stack \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05D4 \u05D1\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\me\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D9\u05DB\u05D5\u05DD Full Stack \u05E1\u05D9\u05D5\u05DD \u05E9\u05E0\u05D4 \u05D1\\App\\App.DataAccess\\Entities\\BookMeContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:33:31.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
